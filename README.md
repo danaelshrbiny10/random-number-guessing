@@ -1,2 +1,2 @@
-# python-number-guessing
-random number guessing
+# About
+  - random number guessing using python
